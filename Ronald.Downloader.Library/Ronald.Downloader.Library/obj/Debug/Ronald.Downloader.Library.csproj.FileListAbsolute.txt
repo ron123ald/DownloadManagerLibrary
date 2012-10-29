@@ -1,0 +1,5 @@
+C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Ronald.Downloader.Library\bin\Debug\Ronald.Downloader.Library.dll
+C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Ronald.Downloader.Library\bin\Debug\Ronald.Downloader.Library.pdb
+C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Ronald.Downloader.Library\obj\Debug\Ronald.Downloader.Library.dll
+C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Ronald.Downloader.Library\obj\Debug\Ronald.Downloader.Library.pdb
+C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Ronald.Downloader.Library\obj\Debug\Ronald.Downloader.Library.csprojResolveAssemblyReference.cache
