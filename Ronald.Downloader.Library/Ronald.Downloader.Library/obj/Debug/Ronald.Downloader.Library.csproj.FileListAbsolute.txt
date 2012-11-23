@@ -3,3 +3,8 @@ C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Ronald.Downloader.Library\bin\De
 C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Ronald.Downloader.Library\obj\Debug\Ronald.Downloader.Library.dll
 C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Ronald.Downloader.Library\obj\Debug\Ronald.Downloader.Library.pdb
 C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Ronald.Downloader.Library\obj\Debug\Ronald.Downloader.Library.csprojResolveAssemblyReference.cache
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Ronald.Downloader.Library\bin\Debug\Ronald.Downloader.Library.dll
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Ronald.Downloader.Library\bin\Debug\Ronald.Downloader.Library.pdb
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Ronald.Downloader.Library\obj\Debug\Ronald.Downloader.Library.csprojResolveAssemblyReference.cache
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Ronald.Downloader.Library\obj\Debug\Ronald.Downloader.Library.dll
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Ronald.Downloader.Library\obj\Debug\Ronald.Downloader.Library.pdb

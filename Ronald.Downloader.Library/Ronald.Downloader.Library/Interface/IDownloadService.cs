@@ -15,5 +15,6 @@ namespace Ronald.Downloader.Library.Interface
         event CollectionAddJobEventHandler NewChannel;
         event CollectionRemoveJobEventHandler RemoveChannel;
         void DownloadChannel(IModel Channel);
+        void Save();
     }
 }

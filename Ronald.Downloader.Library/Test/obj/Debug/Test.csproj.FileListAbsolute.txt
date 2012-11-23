@@ -5,3 +5,10 @@ C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Test\bin\Debug\Ronald.Downloader
 C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Test\obj\Debug\Test.exe
 C:\_devdrumbi\_SPIKES\Ronald.Downloader.Library\Test\obj\Debug\Test.pdb
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Test\obj\Debug\Test.exe
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Test\obj\Debug\Test.pdb
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Test\bin\Debug\Test.exe
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Test\bin\Debug\Test.pdb
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Test\bin\Debug\Ronald.Downloader.Library.dll
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Test\bin\Debug\Ronald.Downloader.Library.pdb
+C:\Users\Ronald\DownloadManagerLibrary\Ronald.Downloader.Library\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

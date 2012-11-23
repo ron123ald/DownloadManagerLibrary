@@ -69,7 +69,7 @@ namespace Ronald.Downloader.Library.Implementation
             {
                 /// Publish Success message to subcriber
                 this._success.Data = (byte[])e.Result;
-                this._success.FileName = "";
+                this._success.FileName = "onepiece573";
                 this._success.FileType = FileType.mp4;
                 this.InternalSuccessHandler(this._success, e);
             }
